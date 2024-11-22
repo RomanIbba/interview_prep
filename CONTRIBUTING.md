@@ -15,7 +15,7 @@ Thank you for considering contributing to **Interview Prep**! Your contributions
 
 ## How to Contribute
 
-We welcome contributions in various forms:
+Contributions are welcome in various forms:
 - Adding new topics or subtopics
 - Improving existing explanations
 - Adding practice problems or solutions

@@ -62,5 +62,5 @@ The repository is structured into the following directories:
 
 ## Contributing
 
-Contributions are welcom from everyone! 
+Contributions are welcome from everyone! 
 Take a look at the CONTRIBUTING.md file to see how you can contribute
